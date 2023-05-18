@@ -76,6 +76,7 @@ LIMIT 1;
 
 -- No puedo scar la media / promedio ya que tengo datos de texto
 
+DROP DATABASE semillero;
 
 
 
