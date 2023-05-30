@@ -1,0 +1,2 @@
+##INombre final para la cerveza de mi mejor amigo
+print("El nombre de tu cerveza\nes ' " + input("Ingresa el nombre de tu ciudad favorita: ")[:4] + input("Ingresa el tipo de cerveza que venderás: ") + " '\n¡Felicitaciones!")
